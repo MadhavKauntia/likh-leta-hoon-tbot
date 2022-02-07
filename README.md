@@ -9,6 +9,7 @@ TWITTER_ACCESS_TOKEN_SECRET=
 TWITTER_WEBHOOK_ENV=
 ```
 To generate these keys, you have to apply for Twitter Developers account and then create a new application in the [Developer Portal Dashboard](https://developer.twitter.com/en/portal/dashboard).
+
 3. Run ```npm init``` and ```node index.js```
 
 ## WIP
