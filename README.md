@@ -15,3 +15,5 @@ To generate these keys, you have to apply for Twitter Developers account and the
 ## WIP
 1. Yet to add media_id to the reply tweet
 2. Extract tweetId from the tweet sent by a user (Twitter automatically shortens the URL)
+
+Inspired by [this tweet](https://twitter.com/apoorv_taneja/status/1490722356033388545?s=20&t=-W4FIywkTbWQtGmCn3uJSA) by [Apoorv Taneja](https://twitter.com/apoorv_taneja)
