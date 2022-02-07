@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "twitter-api-client": "^1.5.1",
+    "twitter-autohook": "^1.7.2"
+  }
+}
