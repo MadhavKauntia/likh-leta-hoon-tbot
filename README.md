@@ -10,7 +10,7 @@ TWITTER_WEBHOOK_ENV=
 ```
 To generate these keys, you have to apply for Twitter Developers account and then create a new application in the [Developer Portal Dashboard](https://developer.twitter.com/en/portal/dashboard).
 
-3. Run ```npm init``` and ```node index.js```
+3. Run ```npm install``` and ```node index.js```
 
 ## WIP
 1. Yet to add media_id to the reply tweet
