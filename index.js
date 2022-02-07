@@ -27,7 +27,7 @@ const twitterClient = new client.TwitterClient({
 
           twitterClient.tweets
             .statusesUpdate({
-              status: "", // tweet content
+              status: "Likh leta hu UPSC mai na aa jaye", // tweet content
               in_reply_to_status_id: tweetId, // tweet id goes here
               // add media here
             })
